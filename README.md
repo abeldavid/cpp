@@ -2,7 +2,7 @@
 
 Use this template to run C++ files.
 
-Edit the following
+Edit the following files :
 
 In **tasks.json**
 
